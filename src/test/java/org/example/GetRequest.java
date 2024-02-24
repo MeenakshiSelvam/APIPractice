@@ -2,15 +2,12 @@ package org.example;
 
 import org.testng.annotations.Test;
 
-import java.util.HashMap;
-import java.util.Map;
-
 import static io.restassured.RestAssured.baseURI;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*; //matchers should be imported then only body("",equals()) can be generated.
 
 
-public class ApiTest3 {
+public class GetRequest {
     @Test
     public void test1() {
         //getrequest

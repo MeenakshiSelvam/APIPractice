@@ -4,30 +4,212 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2c4d923-ed21-4220-aeb3-2832231b30fb" name="Changes" comment="" />
+    <list default="true" id="a2c4d923-ed21-4220-aeb3-2832231b30fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/RestAssuredApi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/RestAssuredApi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-org.example.Requestonlocalapi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folder/soap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/soap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ApiTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ApiTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/DeleteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/DeleteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/GetRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/GetRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/PUTrequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PUTrequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Patchrequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Patchrequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/PostRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PostRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Requestonlocalapi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Requestonlocalapi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/SoapXmlRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/SoapXmlRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ValidateJsonSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ValidateJsonSchema.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2cg6cvRmPGq9FLnUyGGsFBes1My" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Meenakshi/RestAssuredApi/Folder&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Meenakshi\RestAssuredApi\Folder" />
+      <recent name="C:\Users\Meenakshi\RestAssuredApi\target\classes" />
+      <recent name="C:\Users\Meenakshi\RestAssuredApi\files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ApiTest2.test3">
+    <configuration name="ApiTest2.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ApiTest2" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Requestonlocalapi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredApi" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Requestonlocalapi" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoapXmlRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.SoapXmlRequest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoapXmlRequest.validateSoapXml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.SoapXmlRequest" />
+      <option name="METHOD_NAME" value="validateSoapXml" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateJsonSchema" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ValidateJsonSchema" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.ApiTest2.test3" />
+      <item itemvalue="TestNG.Requestonlocalapi" />
+      <item itemvalue="TestNG.SoapXmlRequest" />
+      <item itemvalue="TestNG.SoapXmlRequest.validateSoapXml" />
+      <item itemvalue="TestNG.ValidateJsonSchema" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ApiTest2.test3" />
+        <item itemvalue="TestNG.Requestonlocalapi" />
+        <item itemvalue="TestNG.SoapXmlRequest.validateSoapXml" />
+        <item itemvalue="TestNG.SoapXmlRequest" />
+        <item itemvalue="TestNG.ValidateJsonSchema" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,5 +220,19 @@
       <updated>1708520957843</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
