@@ -21,6 +21,7 @@ public class ApiTest2 {
 
         Response response = get("https://reqres.in/api/users?page=2"); //in order to use the get method directly we have to import all statically.
 
+
         System.out.println("Status Code:  " + response.getStatusCode());
         System.out.println("Response Time : " + response.getTime());
         System.out.println("Response Body :" + response.getBody().asString());
