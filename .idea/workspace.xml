@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2c4d923-ed21-4220-aeb3-2832231b30fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/RestAssuredApi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/RestAssuredApi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-org.example.Requestonlocalapi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Folder/soap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Folder/soap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ApiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ApiTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ApiTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/DeleteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/DeleteRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/GetRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/GetRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/PUTrequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PUTrequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Patchrequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Patchrequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/PostRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PostRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Requestonlocalapi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Requestonlocalapi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/SoapXmlRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/SoapXmlRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ValidateJsonSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ValidateJsonSchema.java" afterDir="false" />
-    </list>
+    <list default="true" id="a2c4d923-ed21-4220-aeb3-2832231b30fb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,6 +186,14 @@
       <option name="presentableId" value="Default" />
       <updated>1708520957843</updated>
     </task>
+    <task id="LOCAL-00001" summary="apitest">
+      <created>1708782176433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708782176433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,5 +209,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="apitest" />
+    <option name="LAST_COMMIT_MESSAGE" value="apitest" />
   </component>
 </project>
