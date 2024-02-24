@@ -11,6 +11,7 @@ public class ApiTest {
     public void test1()
     {
 //Run a Get Req
+
         Response response = RestAssured.get("https://reqres.in/api/users?page=2");
         System.out.println("Status Code:  " + response.getStatusCode());
         System.out.println("Response Time : " + response.getTime());
